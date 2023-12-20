@@ -1,0 +1,63 @@
+[
+	
+  {
+     "id": "AS9121PI",
+     "nombre": "ASPIRADORA ULTRA POWER",
+     "precio": 10000,
+     "img": "../img/products/AS9121PI.webp"
+  },
+  {
+     "id": "ATCF20A1P",
+     "nombre": "CALOVENTOR",
+     "precio": 12000,
+     "img": "../img/products/TCF20A1P.png"
+  },
+  {
+     "id": "BA7504PI",
+     "nombre": "BALANZA",
+     "precio": 4000,
+     "img": "../img/products/BA7504PI.webp"
+  },
+  {
+     "id": "BK2001-30013",
+     "nombre": "TENSIOMETRO ANEROIDE Y ESTETOSCOPIO",
+     "precio": 6000,
+     "img": "../img/products/BK2001-30013.jpg"
+  },
+  {
+     "id": "BTAT21BP",
+     "nombre": "BATIDORA PLANETARIA",
+     "precio": 180000,
+     "img": "../img/products/BTAT21BP.webp"
+  },
+  {
+     "id": "CA2180N",
+     "nombre": "CAFETERA DE FILTRO 0,6 L",
+     "precio": 20000,
+     "img": "../img/products/CA2180N.jpg"
+  },
+  {
+     "id": "CA8143P",
+     "nombre": "CAFETERA DE FILTRO",
+     "precio": 22000,
+     "img": "../img/products/CA8143P.webp"
+  },
+  {
+   "id": "CAATW21WP",
+   "nombre": "CAFETERA DE FILTRO",
+   "precio": 22000,
+   "img": "../img/products/CAATW21WP.webp"
+   },
+   {
+      "id": "DJP11P",
+      "nombre": "PARLANTE PORTATIL",
+      "precio": 22000,
+      "img": "../img/products/DJP11P.webp"
+   },
+   {
+      "id": "EX8220P",
+      "nombre": "EXPRIMIDOR DE JUGO",
+      "precio": 20000,
+      "img": "../img/products/EX8220P.webp"
+   }	
+]
