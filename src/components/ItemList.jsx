@@ -1,16 +1,16 @@
 
-import Item from "./item.jsx";
+import Item from "./Item.jsx";
 
 const ItemList = ({ productos }) => {
   console.log(productos);
   return (
-    <div>
+    <div className="container">
 
-      <h2>Productos</h2>
+      <h2 className="main-title">Productos</h2>
 
       <div className="productos">
 
-        { productos.map((prod) => <Item producto ={prod} key={prod.id} />)}
+        { productos &&((prod) => <Item producto ={prod} key={prod.id} />)}
 
       </div>
 
